@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://znioevyn.github.io/sitemap/sitemap.txt
